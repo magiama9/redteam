@@ -2,6 +2,8 @@
 
 Currently in Closed Alpha. Contact me for more information and access to our systems and tools.
 
+![redteam-landing-screenshot](https://github.com/magiama9/redteam/blob/main/redteam-landing-screenshot.png)
+
 ## Platform
 Introducing redteam.ai - Unleash the Power of AI for Unparalleled Security Testing
 
